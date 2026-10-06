@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/latapie/public-20261006-234323-bodea/language-masters/en:/",
+    "/content/latapie/public-20261006-234323-bodea/language-masters/en/:/en/",
+    "/content/latapie/public-20261006-234323-bodea/configuration:/.helix/config.json",
+    "/content/latapie/public-20261006-234323-bodea/metadata:/metadata.json",
+    "/content/latapie/public-20261006-234323-bodea/redirects:/redirects.json",
+    "/content/latapie/public-20261006-234323-bodea/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/latapie/public-20261006-234323-bodea/",
+    "/content/dam/latapie/public-20261006-234323-bodea/"
   ]
 }
